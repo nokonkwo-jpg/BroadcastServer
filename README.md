@@ -46,5 +46,3 @@ You can easily customize this project by:
 - Changing the port number used by the server (currently 8080).
 - Implementing additional logic in the Client class to process client messages differently.
 - Extending the client to receive messages from the server or support more complex interactions.
-
-# License
