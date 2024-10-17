@@ -1,9 +1,9 @@
 # Java Socket Server and Client
-This is a simple Java-based socket server and client project.
+This project is based on the [roadmap.sh Broadcast Server project](https://roadmap.sh/projects/broadcast-server) outlines how to build a simple Java-based socket server and client project.
 The server can handle client connections, and clients can send messages
 to the server.
 The server will print all received messages and can be stopped by
-sending the "exit" command from a client.
+sending the "exit" command from a client. This is a project from
 
 ## Features
 - Client-server communication: Clients can send messages to the server, which the server will display.
